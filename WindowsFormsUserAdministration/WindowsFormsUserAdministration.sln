@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseService", "..\..\UserAdministration\DatabaseService\DatabaseService.csproj", "{8E48A145-641B-49C5-BC7A-6B30A1EB3890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsUsers", "..\..\UserAdministration\WindowsFormsUsers\WindowsFormsUsers.csproj", "{A405B52B-7F42-471A-8F80-0E83406F4FCF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UserAdministration", "UserAdministration\UserAdministration.vdproj", "{9D5A38EE-84B6-4581-9903-56DB89A7BA4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E48A145-641B-49C5-BC7A-6B30A1EB3890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E48A145-641B-49C5-BC7A-6B30A1EB3890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E48A145-641B-49C5-BC7A-6B30A1EB3890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E48A145-641B-49C5-BC7A-6B30A1EB3890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A405B52B-7F42-471A-8F80-0E83406F4FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A405B52B-7F42-471A-8F80-0E83406F4FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A405B52B-7F42-471A-8F80-0E83406F4FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A405B52B-7F42-471A-8F80-0E83406F4FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5A38EE-84B6-4581-9903-56DB89A7BA4C}.Debug|Any CPU.ActiveCfg = Debug
+		{9D5A38EE-84B6-4581-9903-56DB89A7BA4C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
